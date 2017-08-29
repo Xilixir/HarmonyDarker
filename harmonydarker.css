@@ -68,17 +68,17 @@
 /************************/
 
 .serviceTitle {
-	color: #ffffff;
+	color: #b9b9b9;
 }
 
 .playlistTitle {
-	color: #ffffff;
+	color: #b9b9b9;
 }
 
 .playlistTitle.active,
 .playlistTitle.active .icon {
-	background: #ffffff;
-	color: #181818;
+	background: #404040;
+	color: #00ff5a;
 }
 
 .icon.icon-play.playing {
