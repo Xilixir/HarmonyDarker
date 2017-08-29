@@ -144,7 +144,7 @@
 
 ::-webkit-scrollbar {
 	width: 7px;
-	background: #4d4d4d;
+	background: #181818;
 }
 
 ::-webkit-scrollbar:hover {
@@ -154,10 +154,10 @@
 ::-webkit-scrollbar-thumb {
 	background: #666;
 	background-clip: padding-box;
-	border: 1px solid #444;
+	border: 1px solid #666;
 	min-height: 10px;
 }
 
 ::-webkit-scrollbar-thumb:active {
-	background: rgba(0,0,0,0.61);
+	background: #666;
 }
