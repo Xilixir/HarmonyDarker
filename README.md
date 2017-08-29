@@ -1,4 +1,4 @@
-# this is a darker theme for harmony, meant to resemble spotify
+# this is a darker theme for harmony, similar to spotify
 
 how to install:
 
